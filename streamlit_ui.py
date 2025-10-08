@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1hQhrswb99Ks42H_e58o5ZRkLK72pLknA
 """
 
-!pip install langgraph langchain_groq streamlit
+pip install langgraph langchain_groq streamlit
 
 #importing libraries
 
